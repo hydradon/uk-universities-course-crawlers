@@ -12,3 +12,4 @@ class UdurhamItem(scrapy.Item):
 	url = scrapy.Field()
 	code = scrapy.Field()
 	desc = scrapy.Field()
+	dept_url = scrapy.Field()

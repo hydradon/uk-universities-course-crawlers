@@ -13,7 +13,7 @@ SPIDER_MODULES = ['udurham.spiders']
 NEWSPIDER_MODULE = 'udurham.spiders'
 
 FEED_FORMAT = "csv"
-FEED_URI = "../dataset/udurham.csv"
+FEED_URI = "../dataset/udurham-postgrads.csv"
 FEED_EXPORT_ENCODING = "utf-8-sig"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
